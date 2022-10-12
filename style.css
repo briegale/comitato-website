@@ -102,7 +102,7 @@ body, html {
 
 /* HOME PAGE */
 #hero {
-    background-image: url("modell.png");
+    background-image: url("mode.png");
     height: 80vh;
     max-width: 100%;
     background-size: cover;
